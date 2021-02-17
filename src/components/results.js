@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 import Logo from "./logo";
 import SearchBar from "./searchbar";
 import * as actions from "../actions";
-import ResultsPosts from "./resusltsPosts";
+import ResultsPosts from "./resultsPosts";
 
 class Results extends Component {
 
