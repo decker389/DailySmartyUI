@@ -28,6 +28,12 @@ $placeholder-color: #b3b3b3;
 $blue-main: #0079ff;
 $color-gray-three: #d8d8d8;
 
+.no-content {
+    color: $color-gray-one;
+    font-size: 14px;
+    line-height: 17px;
+}
+
 @import "./mixins.scss";
 @import "./searchBar.scss";
 @import "./recentPosts.scss";
